@@ -1,1 +1,2 @@
 ini adalah satu.txt
+ini adalah tambahan kode pada satu.txt
